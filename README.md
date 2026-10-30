@@ -35,4 +35,4 @@ Node.js, Express, and MongoDB.
    `MONGODB_URI=mongodb://127.0.0.1:27017/asinPortfolio`
 
 6. Start the server using `npm start`.
-7. Open `http://localhost:3000` in your browser.
+7. Open `http://localhost:3004` in your browser.
